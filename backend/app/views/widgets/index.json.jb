@@ -1,0 +1,8 @@
+@widgets.map do |widget|
+  {
+    id: widget.id,
+    title: widget.title,
+    photo_data: widget.photo_data,
+    url: widget_url(widget, format: :json)
+  }
+end

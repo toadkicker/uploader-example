@@ -1,0 +1,7 @@
+{
+  id: @widget.id,
+  title: @widget.title,
+  photo_data: @widget.photo_data,
+  created_at: @widget.created_at,
+  updated_at: @widget.updated_at
+}
