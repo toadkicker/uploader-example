@@ -11,3 +11,7 @@ It comes with a systemd script for running Sidekiq as a managed process.
 Last it has a UI written with NuxtJS.
 
 If you'd like to read the details, head over to [Medium](https://medium.com/@toddbaur/happy-users-uploading-files-with-rails-5-shrine-and-vue-js-bbcc470a327f)!
+
+## Contributing to this repo
+
+Pull requests are welcome and I will update the article with adendums as things go. Thank you for being awesome!
